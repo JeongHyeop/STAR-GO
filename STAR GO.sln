@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9F5F9193-B0D5-CE59-631C-96EF8E3C2199}") = "STAR GO", "Assembly-CSharp.csproj", "{C672E0EF-40C6-5DAE-D740-4946C10651DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C672E0EF-40C6-5DAE-D740-4946C10651DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C672E0EF-40C6-5DAE-D740-4946C10651DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C672E0EF-40C6-5DAE-D740-4946C10651DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C672E0EF-40C6-5DAE-D740-4946C10651DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
